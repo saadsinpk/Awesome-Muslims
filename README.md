@@ -68,6 +68,7 @@
 - [Hadith Multi](https://github.com/fawazahmed0/hadiths): Hadiths with Multiple Grades & Languages [Preview](https://fawazahmed0.github.io/hadiths)
 - [Next Salat](https://github.com/ayoubsousali/next-salat): A simple web app to browse prayer times in Morocco [Preview](https://salat.sousali.com)
 - [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app get prayer times based on GPS location, and find the nearest Mosques. [Preview](https://ptmf.madi.se/)
+- - [UmmeSaad](https://ummesaad.org): Free Quran reader web app and Android mobile app with Arabic text, Kanz-ul-Iman Urdu translation, English translation, 13+ languages, audio recitation, prayer times, and Qibla direction.
 
 
 
